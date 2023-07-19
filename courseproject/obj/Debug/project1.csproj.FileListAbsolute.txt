@@ -1,0 +1,33 @@
+C:\Users\user\source\repos\courseproject\bin\Debug\project1.exe.config
+C:\Users\user\source\repos\courseproject\bin\Debug\project1.exe
+C:\Users\user\source\repos\courseproject\bin\Debug\project1.pdb
+C:\Users\user\source\repos\courseproject\obj\Debug\project1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\courseproject\obj\Debug\project1.FormDetails.resources
+C:\Users\user\source\repos\courseproject\obj\Debug\project1.FormMain.resources
+C:\Users\user\source\repos\courseproject\obj\Debug\project1.FormNotifications.resources
+C:\Users\user\source\repos\courseproject\obj\Debug\project1.FormRecycled.resources
+C:\Users\user\source\repos\courseproject\obj\Debug\project1.Properties.Resources.resources
+C:\Users\user\source\repos\courseproject\obj\Debug\project1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\courseproject\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\courseproject\obj\Debug\project1.exe
+C:\Users\user\source\repos\courseproject\obj\Debug\project1.pdb
+C:\Users\user\source\repos\courseproject\bin\Debug\NotesAppLibrary.dll
+C:\Users\user\source\repos\courseproject\bin\Debug\NotesAppLibrary.pdb
+C:\Users\user\source\repos\courseproject\obj\Debug\project1.csproj.CopyComplete
+C:\Users\Toni Kostov\source\repos\coursepoop\courseproject\bin\Debug\project1.exe.config
+C:\Users\Toni Kostov\source\repos\coursepoop\courseproject\bin\Debug\project1.exe
+C:\Users\Toni Kostov\source\repos\coursepoop\courseproject\bin\Debug\project1.pdb
+C:\Users\Toni Kostov\source\repos\coursepoop\courseproject\bin\Debug\NotesAppLibrary.dll
+C:\Users\Toni Kostov\source\repos\coursepoop\courseproject\bin\Debug\NotesAppLibrary.pdb
+C:\Users\Toni Kostov\source\repos\coursepoop\courseproject\obj\Debug\project1.csproj.AssemblyReference.cache
+C:\Users\Toni Kostov\source\repos\coursepoop\courseproject\obj\Debug\project1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Toni Kostov\source\repos\coursepoop\courseproject\obj\Debug\project1.FormDetails.resources
+C:\Users\Toni Kostov\source\repos\coursepoop\courseproject\obj\Debug\project1.FormMain.resources
+C:\Users\Toni Kostov\source\repos\coursepoop\courseproject\obj\Debug\project1.FormNotifications.resources
+C:\Users\Toni Kostov\source\repos\coursepoop\courseproject\obj\Debug\project1.FormRecycled.resources
+C:\Users\Toni Kostov\source\repos\coursepoop\courseproject\obj\Debug\project1.Properties.Resources.resources
+C:\Users\Toni Kostov\source\repos\coursepoop\courseproject\obj\Debug\project1.csproj.GenerateResource.cache
+C:\Users\Toni Kostov\source\repos\coursepoop\courseproject\obj\Debug\project1.csproj.CoreCompileInputs.cache
+C:\Users\Toni Kostov\source\repos\coursepoop\courseproject\obj\Debug\project1.csproj.CopyComplete
+C:\Users\Toni Kostov\source\repos\coursepoop\courseproject\obj\Debug\project1.exe
+C:\Users\Toni Kostov\source\repos\coursepoop\courseproject\obj\Debug\project1.pdb

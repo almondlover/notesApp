@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\courseproject\NotesAppLibrary\bin\Debug\NotesAppLibrary.dll
+C:\Users\user\source\repos\courseproject\NotesAppLibrary\bin\Debug\NotesAppLibrary.pdb
+C:\Users\user\source\repos\courseproject\NotesAppLibrary\obj\Debug\NotesAppLibrary.csprojAssemblyReference.cache
+C:\Users\user\source\repos\courseproject\NotesAppLibrary\obj\Debug\NotesAppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\courseproject\NotesAppLibrary\obj\Debug\NotesAppLibrary.dll
+C:\Users\user\source\repos\courseproject\NotesAppLibrary\obj\Debug\NotesAppLibrary.pdb
+C:\Users\Toni Kostov\source\repos\coursepoop\courseproject\NotesAppLibrary\bin\Debug\NotesAppLibrary.dll
+C:\Users\Toni Kostov\source\repos\coursepoop\courseproject\NotesAppLibrary\bin\Debug\NotesAppLibrary.pdb
+C:\Users\Toni Kostov\source\repos\coursepoop\courseproject\NotesAppLibrary\obj\Debug\NotesAppLibrary.csproj.AssemblyReference.cache
+C:\Users\Toni Kostov\source\repos\coursepoop\courseproject\NotesAppLibrary\obj\Debug\NotesAppLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Toni Kostov\source\repos\coursepoop\courseproject\NotesAppLibrary\obj\Debug\NotesAppLibrary.dll
+C:\Users\Toni Kostov\source\repos\coursepoop\courseproject\NotesAppLibrary\obj\Debug\NotesAppLibrary.pdb
